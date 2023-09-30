@@ -1,6 +1,5 @@
 html {
     font-family: helvetica;
-    background-image: url(/img/discografia-cbjr-albuns.jpg);
 
 }
 
@@ -72,7 +71,7 @@ html {
 }
 
 .curiosities-container li {
-    height: 30px;
+    height: 50px;
 }
 
 .img-bold {
