@@ -1,0 +1,126 @@
+html {
+    font-family: helvetica;
+    background-color: #c13;
+    background-image: url(/img/discografia-cbjr-albuns.jpg);
+
+}
+
+.container {
+    max-width: 1100px;
+    background-color: #111;
+    color: #fff;
+    position: relative;
+    margin: 30px auto;
+    padding: 20px 30px;
+    border-radius: 10px;
+
+}
+
+.bold {
+    font-weight: bold;
+    color: brown;
+}
+
+.headler {
+    text-align: center;
+    color: #fff;
+}
+
+.main-title{
+    font-size: 40px;
+}
+
+.main-paragraph {
+    font-style: italic;
+}
+
+.featured-image {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.featured-image img {
+    width: 70%;
+    border-radius: 15px;
+}
+
+.biography-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #c13;
+    border-bottom: 1px dashed #c13;
+}
+
+.quotes-container {
+    background-color: #c13;
+    padding: 30px ;
+}
+
+.quotes-container blockquote {
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+.quotes-container p {
+    font-style: italic;
+}
+
+.curiosities-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-bottom: 1px dashed #c13;
+}
+
+.curiosities-container li {
+    height: 30px;
+}
+
+.img-bold {
+    font-weight: bold;
+    text-align: center;
+}
+
+.img-bold img {
+    width: 90%;
+    border-radius: 15px;
+}
+
+.moreinfo-container {
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 1px dashed #c13;
+}
+
+.moreinfo-container a {
+    color: unset;
+    text-decoration: none;
+    transition: .7s;
+}
+
+.moreinfo-container a:hover {
+    color: #c13;
+}
+
+
+footer {
+    text-align: center;
+
+}
+
+footer span {
+    font-weight: bold;
+}
+
+footer a {
+    color: unset;
+    text-decoration: none;
+    transition: .7s;
+
+}
+
+footer a:hover {
+    color: #c13;
+    font-size: 19px;
+}
+
