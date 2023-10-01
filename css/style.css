@@ -38,7 +38,7 @@ html {
 }
 
 .featured-image img {
-    width: 70%;
+    width: 90%;
     border-radius: 15px;
 }
 
@@ -80,7 +80,7 @@ html {
 }
 
 .img-bold img {
-    width: 90%;
+    width: 100%;
     border-radius: 15px;
 }
 
@@ -120,5 +120,15 @@ footer a {
 footer a:hover {
     color: #c13;
     font-size: 19px;
+}
+
+.spotify_logo {
+    width: 70px;
+    height: 25px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    top: 5px;
+    left: 10px;
 }
 
