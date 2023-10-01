@@ -122,8 +122,8 @@ footer a:hover {
     font-size: 19px;
 }
 
-.spotify_logo {
-    width: 70px;
+.spotify_logo img {
+    width: 75px;
     height: 25px;
     margin: 0px;
     padding: 0px;
